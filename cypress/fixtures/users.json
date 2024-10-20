@@ -1,0 +1,10 @@
+{
+    "validUser ": {
+        "email": "anehan01269@stud.noroff.no",
+        "password": "validPassword123"
+    },
+    "invalidUser ": {
+        "email": "unknown@stud.noroff.no",
+        "password": "wrongPassword"
+    }
+}
